@@ -25,7 +25,7 @@ $( document ).ready(function() {
 			result += out_char_array.join('');
 			result += '</p>';			
 		} else {
-			result = '<p>Congratulations! all of the characters from your writing are allowed.</p>';
+			result = '<p>Congratulations! All of the characters from your writing are allowed.</p>';
 		}
 
 		$('#result').html(result);

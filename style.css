@@ -1,7 +1,9 @@
 label {
-    display: block;
+	display: block;
 }
 
 #result {
-    margin-bottom: 50px;
+	border-bottom: 1px solid gray;
+	margin-bottom: 1em;
+	padding-bottom: 2em;
 }
